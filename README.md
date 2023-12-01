@@ -12,4 +12,4 @@ Cd DevDevie
 and
 python3 DevDevie.py <username>
 
-UDATES WILL CAME
+UPDATES WILL CAME
