@@ -1,15 +1,13 @@
-# DevDeviePassCrack
-Usage: 
+UPDATE! 
 
-1.Download
-gh repo clone Amesa0/DevDeviePassCrack
-OR
-Download Zip file.
+DevDevie-v2 
 
-2.usage
+PASSWORD HELPER!     
 
-Cd DevDevie
-and
-python3 DevDevie.py <username>
-
-UPDATES WILL CAME
+                                                     ############################################################################
+                                                     # USAGE = gh repo clone Amesa0/DevDeviePasswordHelper OR Download Zip file.#
+                                                     #                                                                          #
+                                                     #                 COMMAND = python3 DevDevie-v2.py                         #
+                                                     ############################################################################
+                                                                                           
+                                                       
